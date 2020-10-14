@@ -8,3 +8,15 @@
   box-shadow: none;
   border: none;
 }
+
+.footer-background{
+  background-color: #292929;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  color: white;
+}
+
+.ui.label{
+  background-color: black;
+  color: white;
+}
